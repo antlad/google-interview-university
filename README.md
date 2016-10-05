@@ -144,7 +144,11 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
 
 ## Follow me
 
-I'm on the journey. Follow along at [GoogleyAsHeck.com](https://googleyasheck.com/)
+I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)
+
+- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
+- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
+- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
 ![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
@@ -1561,10 +1565,14 @@ Take coding challenges every day, as many as you can.
     - [ ] Tensorflow Tutorials: https://www.tensorflow.org/versions/r0.11/tutorials/index.html
     - [ ] Practical Guide to implementing Neural Networks in Python (using Theano): http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/
     - [ ] Vector calculus: https://www.youtube.com/watch?v=tDtYAddb4o4
-    - More courses:
+    - Courses:
+        - [ ] Great starter course: Machine Learning: https://www.coursera.org/learn/machine-learning
+              - videos only: https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
+              - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
+        - [ ] Neural Networks for Machine Learning: https://www.coursera.org/learn/neural-networks
         - [ ] Google's Deep Learning Nanodegree: https://www.udacity.com/course/deep-learning--ud730
         - [ ] Google/Kaggle Machine Learning Engineer Nanodegree: https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009
-        - [ ] Self-Driving Car Engineer Nanodegree: https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+        - [ ] Self-Driving Car Engineer Nanodegree: https://www.udacity.com/drive
         - [ ] Metis Online Course ($99 for 2 months): http://www.thisismetis.com/explore-data-science
     - Resources:
         - Great book: Data Science from Scratch: First Principles with Python: https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X
