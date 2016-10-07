@@ -169,9 +169,9 @@ from public sources and replacing the online course videos over time. I like usi
     - [ ] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
     - [ ] https://www.youtube.com/watch?v=8npJLXkcmu8
 
-- [ ] Articles:
+- [x] Articles:
     - [x] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
-    - [ ] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+    - [x] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
         - all the things he mentions that you need to know are listed below
     - [x] \(very dated) http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
     - [x] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
@@ -180,7 +180,7 @@ from public sources and replacing the online course videos over time. I like usi
     - [x] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
     - [x] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
     - [x] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
-    - [ ] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
+    - [x] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
     - [x] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
     - [ ] Cracking The Coding Interview Set 1:
         - [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
@@ -205,9 +205,9 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [ ] **How computers process a program:**
-    - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
-    - [ ] https://www.youtube.com/watch?v=Mv2XQgpbTNE
+- [x] **How computers process a program:**
+    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
+    - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
 - [ ] **How floating point numbers are stored:**
     - [ ] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
@@ -249,11 +249,11 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
     - [x] Python in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
     - [x] Series on 3.4: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
-    - [ ] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
+    - [x] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
     - [ ] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
     - [ ] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
     - [ ] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
-    - [ ] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
+    - [x] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
     - [x] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
 
 - [ ] **Compilers**
