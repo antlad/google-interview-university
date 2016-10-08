@@ -25,6 +25,9 @@ sometimes word-for-word in Google's coaching notes.
 - [About Google](#about-google)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+- [Pick One Language for the Interview](#pick-one-language-for-the-interview)
+- [Before you Get Started](#before-you-get-started)
+- [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
@@ -124,16 +127,11 @@ months. If you are familiar with a lot of this already it will take you a lot le
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-I'm using Github's special markdown flavor, including tasks lists to check my progress.
+I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-I check each task box at the beginning of a line when I'm done with it. When all sub-items in a block are done,
-I put [x] at the top level, meaning the entire block is done. Sorry you have to remove all my [x] markings
-to use this the same way. If you search/replace, just replace [x] with [ ].
-Sometimes I just put a [x] at top level if I know I've done all the subtasks, to cut down on clutter.
+- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
-More about Github flavored markdown: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
-
-    I have a friendly referral already to get my resume in at Google. Thanks JP.
+[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Get in a Googley Mood
 
@@ -149,7 +147,7 @@ I still have a few days in the learning phase (finishing up this crazy list), an
 I'll be doing is programming questions all day long. That will continue for a few weeks, and then I'll
 apply through a referral I've been holding onto since February (yes, February).
 
-In a couple of days I'll remove the checks from all the checkboxes. This started out as just a simple to-do list. :)
+    Thanks for the referral, JP.
 
 ## Follow Along with Me
 
@@ -183,12 +181,12 @@ I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://
 
 ## About Video Resources
 
-Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
-are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
-from public sources and replacing the online course videos over time. I like using university lectures.
+Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
+It is free to do so, but sometimes the classes are not in session so you have to wait a couple of months, so you have no access. 
 
-## Interview Process & General Interview Prep
+    I'd appreciate your help converting the MOOC video links to public sources to replace the online course videos over time. I like using university lectures.
 
+<<<<<<< HEAD
 - [ ] Videos:
     - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
     - [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
@@ -213,11 +211,39 @@ from public sources and replacing the online course videos over time. I like usi
     - [ ] How to Get a Job at the Big 4:
         - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+=======
 
+## Interview Process & General Interview Prep
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
 
-## Prerequisite Knowledge
+- [ ] Videos:
+    - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+    - [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+    - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
-This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+- [ ] Articles:
+    - [ ] [Becoming a Googler in Three Steps](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
+    - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+        - all the things he mentions that you need to know are listed below
+    - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
+    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+- [ ] Additional (not suggested by Google but I added):
+    - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+    - [x] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
+    - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+    - [x] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
+    - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+    - [ ] Cracking The Coding Interview Set 1:
+        - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+        - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [ ] How to Get a Job at the Big 4:
+        - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+
+## Pick One Language for the Interview
+
+I wrote this short article about it: [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
@@ -225,69 +251,73 @@ You can use a language you are comfortable in to do the coding part of the inter
 - Java
 - Python
 
-You need to be very comfortable in the language, and be knowledgeable. Read more (rescued from the lost web):
-    - https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/
+You could also use these, but read around first. There may be caveats:
+
+- JavaScript
+- Ruby
+
+You need to be very comfortable in the language, and be knowledgeable. 
+
+Read more about choices:
+- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
+
+[See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [x] **How computers process a program:**
-    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+## Before you Get Started
 
-- [ ] **How floating point numbers are stored:**
-    - [ ] simple 8-bit: [Fractions in binary? (video)](http://math.stackexchange.com/questions/301435/fractions-in-binary)
-    - [ ] 32 bit: [Representation of Floating Point Numbers - 1 (video)](https://www.youtube.com/watch?v=ji3SfClm8TU)
-    - [ ] 64 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
+This list grew over many months, and yes, it kind of got out of hand. 
 
-- [ ] **Computer Arch Intro:**
-    (first video only - interesting but not required) [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
+Here are some mistakes I made so you'll have a better experience.
 
-- [ ] **C**
-    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [ ] K&R C book (ANSI C)
-    - [ ] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
-    - [ ] GDB:
-        - https://www.youtube.com/watch?v=USPvePv1uzE
-        - https://www.youtube.com/watch?v=y5JmQItfFck
-      - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
-- [ ] **C++**
-    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [ ] basics
-    - [ ] pointers
-    - [ ] functions
-    - [ ] references
-    - [ ] templates
-    - [ ] compilation
-    - [ ] scope & linkage
-    - [ ] namespaces
-    - [ ] OOP
-    - [ ] STL
-    - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
-    - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
-    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-        - [ ] Google uses clang-format (there is a command line "style" argument: -style=google)
-    - [ ] [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
-    - [ ] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+### 1. You Won't Remember it All
 
-- [ ] **Python**
-    - [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-    - [x] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
-    - [x] [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-    - [x] [Zero to Hero (video)](https://www.youtube.com/watch?v=emY34tSKXc4)
-    - [ ] [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-    - [ ] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
-    - [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
-    - [x] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
-    - [x] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going 
+through my notes and making flashcards so I could review (see below). 
 
-- [ ] **Compilers**
-    - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
-    - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+### 2. Use Flashcards
+
+To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
+Each card has different formatting.
+
+I made a mobile-first website so I could review on my phone and tablet, whereever I am.
+
+Make your own for free:
+
+[Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
+
+I'll add my set of flashcards to that repo soon so you have access to a lot of cards.
+
+**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the 
+same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in 
+your brain.
+
+### 3. Review, review, review
+
+I keep a set of cheatsheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
+
+Take a break from programming problems for a half hour and go through your flashcards.
+
+### 4. Focus
+
+There are a lot of distractions that can take up valuable time. Focus and concentration is hard.
+
+## What you won't see covered
+
+This big list all started as a personal to-do list made from Google interview coaching notes. These are prevalent 
+technologies but were not mentioned in those notes:
+
+- SQL
+- Javascript
+- HTML, CSS, and other front-end technologies
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
 
 ## The Daily Plan
 
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
+Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
 
 Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
     C - using structs and functions that take a struct * and something else as args.
@@ -311,8 +341,25 @@ You can see my code here:
 
 You don't need to memorize the guts of every algorithm.
 
-Write code on a whiteboard, not a computer. Test with some sample inputs.
-Then test it out on a computer to make sure it's not buggy from syntax.
+Write code on a whiteboard, not a computer. Test with some sample inputs. Then test it out on a computer.
+
+## Prerequisite Knowledge
+
+- [x] **How computers process a program:**
+    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+
+- [ ] **How floating point numbers are stored:**
+    - [ ] simple 8-bit: [Fractions in binary? (video)](http://math.stackexchange.com/questions/301435/fractions-in-binary)
+    - [ ] 32 bit: [Representation of Floating Point Numbers - 1 (video)](https://www.youtube.com/watch?v=ji3SfClm8TU)
+    - [ ] 64 bit: [IEEE754 32-bit floating point binary (video)](https://www.youtube.com/watch?v=50ZYcZebIec)
+
+- [ ] **Computer Arch Intro:**
+    (first video only - interesting but not required) [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
+
+- [ ] **Compilers**
+    - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
+    - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
@@ -447,7 +494,11 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] [Understanding Hash Functions (video](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html)
         - [ ] [Using Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html)
         - [ ] [Supporting Hashing (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
+<<<<<<< HEAD
         - [ ] [Language SUpport Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
+=======
+        - [ ] [Language Support Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
         - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
@@ -595,9 +646,15 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - I read through code, but will not implement.
     - [ ] [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries)
     - [ ] Short course videos:
+<<<<<<< HEAD
         - [ ] [Core Introduction To Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
         - [ ] [Core Performance Of Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
         - [ ] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie
+=======
+        - [ ] [Introduction To Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
+        - [ ] [Performance Of Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
+        - [ ] [Implementing A Trie (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     - [ ] [The Trie: A Neglected Data Structure](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
     - [ ] [TopCoder - Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
     - [ ] [Stanford Lecture (real world use case) (video)](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
@@ -636,8 +693,13 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             networking, and file system code) etc.
         - [ ] [CS 61B: Splay Trees (video)](https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
         - [ ] MIT Lecture: Splay Trees:
+<<<<<<< HEAD
                 - Gets very mathy, but watch the last 10 minutes for sure.
                 - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
+=======
+            - Gets very mathy, but watch the last 10 minutes for sure.
+            - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
 
     - [ ] **2-3 search trees**
         - In practice:
@@ -972,7 +1034,11 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] Paxos Consensus algorithm: 
         - [short video](https://www.youtube.com/watch?v=s8JqcZtvnsM)
         - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+<<<<<<< HEAD
         - [paper])http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+=======
+        - [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     - [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
     - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
     - [ ] [Optional: UML 2.0 Series (vido)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
@@ -1161,7 +1227,11 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [slides](http://gotocon.com/dl/goto-berlin-2013/slides/SteveFreeman_TestDrivenDevelopmentThatsNotWhatWeMeant.pdf)
     - [ ] [TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
     - [ ] [Is TDD dead? (video)](https://www.youtube.com/watch?v=z9quxZsLcfo)
+<<<<<<< HEAD
     - [ ] [Video series (152 videos) - not all are needed (video)](https://www.youtube.com/watch?v=nzJapzxH_rE&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
+=======
+    - [ ] V[ideo series (152 videos) - not all are needed (video)](https://www.youtube.com/watch?v=nzJapzxH_rE&list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc)
     - [ ] Dependency injection:
         - [ ] [video](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
@@ -1207,8 +1277,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - ### String searching & manipulations
     - [ ] [Search pattern in text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
     - [ ] Rabin-Karp (videos):
-        [Rabin Karps Algorithm](https://www.coursera.org/learn/data-structures/lecture/c0Qkw/rabin-karps-algorithm)
-        [Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
+        - [Rabin Karps Algorithm](https://www.coursera.org/learn/data-structures/lecture/c0Qkw/rabin-karps-algorithm)
+        - [Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
     - [ ] [Precomputing](https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation)
     - [ ] [Optimization: Implementation and Analysis](https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis)
     - [ ] Knuth-Morris-Pratt (KMP):
@@ -1304,6 +1374,7 @@ Take coding challenges every day, as many as you can.
     - [LeetCode](https://leetcode.com/)
     - [TopCoder](https://www.topcoder.com/)
     - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
+    - [Codewars](http://www.codewars.com)
     - [HackerRank](https://www.hackerrank.com/)
     - [Codility](https://codility.com/programmers/)
     - [InterviewCake](https://www.interviewcake.com/)
@@ -1419,7 +1490,11 @@ Take coding challenges every day, as many as you can.
     - [ ] [Subnetting Demystified - Part 5 CIDR Notation](https://www.youtube.com/watch?v=t5xYI0jzOf4)
 
 - ### Computer Security
+<<<<<<< HEAD
     - MIT (23 videos): https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
+=======
+    - [MIT (23 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
         - [ ] [Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
         - [ ] [Control Hijacking Attacks](https://www.youtube.com/watch?v=6bwzNg5qQ0o&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh&index=2)
         - [ ] [Buffer Overflow Exploits and Defenses](https://www.youtube.com/watch?v=drQyrzRoRiA&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh&index=3)
@@ -1451,7 +1526,11 @@ Take coding challenges every day, as many as you can.
     - [ ] [RabbitMQ](https://www.rabbitmq.com/)
         - [Get Startet](https://www.rabbitmq.com/getstarted.html)
     - [ ] [Celery](http://www.celeryproject.org/)
+<<<<<<< HEAD
         - [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
+=======
+        - [First Steps With Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     - [ ] [ZeroMQ](http://zeromq.org/)
         - [Intro - Read The Manual](http://zeromq.org/intro:read-the-manual)
     - [ ] [ActiveMQ](http://activemq.apache.org/)
@@ -1506,9 +1585,15 @@ Take coding challenges every day, as many as you can.
     
 - ### Treap
     - Combination of a binary search tree and a heap
+<<<<<<< HEAD
     - [ ] Wikipedia: https://en.wikipedia.org/wiki/Treap
     - [ ] https://www.youtube.com/watch?v=6podLUYinH8
     - [ ] Applications in set operations: https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf
+=======
+    - [ ] [Treap](https://en.wikipedia.org/wiki/Treap)
+    - [ ] [Data Structures: Treaps explained (video)](https://www.youtube.com/watch?v=6podLUYinH8)
+    - [ ] [Applications in set operations](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     
 - ### Linear Programming (videos)
     - [ ] [Linear Programming](https://www.youtube.com/watch?v=M4K6HYLHREQ)
@@ -1533,10 +1618,13 @@ Take coding challenges every day, as many as you can.
     - [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
     - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
     - [ ] [Practical Guide to implementing Neural Networks in Python](using Theano)])http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
-    - [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
     - Courses: (videos)
         - [ ] [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
+<<<<<<< HEAD
               - videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+=======
+              - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
               - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
         - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
         - [ ] [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
@@ -1567,7 +1655,11 @@ Take coding challenges every day, as many as you can.
 
 - [ ] **More Dynamic Programming** (videos)
     - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
+<<<<<<< HEAD
     - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+=======
+    - [ ][ 6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+>>>>>>> a87c0710cf0a7bde30974e55e4d0ff839cfd9e33
     - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
     - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
@@ -1664,3 +1756,4 @@ Congratulations!
 Keep learning.
 
 You're never really done.
+
