@@ -1,5 +1,9 @@
 # Google Interview University
 
+Translations:
+
+- [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
+
 ## What is it?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
@@ -328,7 +332,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - [ ] **Compilers**
     - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-    - [ ] [Hardvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+    - [ ] [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
     - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
     - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
