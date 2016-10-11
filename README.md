@@ -318,7 +318,7 @@ You can see my code here:
 
 You don't need to memorize the guts of every algorithm.
 
-Write code on a whiteboard, not a computer. Test with some sample inputs. Then test it out on a computer.
+Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
 
@@ -1185,8 +1185,6 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 ## Coding Question Practice
 
 - [ ] [Great intro (copied from System Design section): Algorithm design:](http://www.hiredintech.com/algorithm-design/)
-- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
 - [ ] [Mathematics for Topcoders](https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/)
 - [ ] [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 
@@ -1251,6 +1249,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 Once you've learned your brains out, put those brains to work.
 Take coding challenges every day, as many as you can.
+
+- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
 - [LeetCode](https://leetcode.com/)
 - [TopCoder](https://www.topcoder.com/)
