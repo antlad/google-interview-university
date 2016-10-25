@@ -785,16 +785,16 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [CS 61B Lecture 32: Sorting III (video)](https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C)
     - [ ] [CS 61B Lecture 33: Sorting V (video)](https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C)
 
-- [ ] - Merge sort code:
-    - [ ] [Using output array](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c)
-    - [ ] [In-place](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
-- [ ] - Quick sort code:
-    - [ ] [Implementation](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c)
-    - [ ] [Implementation](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
+- [x] - Merge sort code:
+    - [x] [Using output array](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c)
+    - [x] [In-place](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
+- [x] - Quick sort code:
+    - [x] [Implementation](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c)
+    - [x] [Implementation](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
 
-- [ ] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
+- [x] Implement:
+    - [x] Mergesort: O(n log n) average and worst case
+    - [x] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
