@@ -1034,7 +1034,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
         - [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
     - [x] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-    - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+    - [x] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
     - [ ] [Optional: UML 2.0 Series (vido)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
     - [ ] OOSE: Software Dev Using UML and Java (21 videos):
         - Can skip this if you have a great grasp of OO and OO design practices.
@@ -1042,7 +1042,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] SOLID OOP Principles:
         - [x] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)
         - [ ] [SOLID Design Patterns in C# (video)](https://www.youtube.com/playlist?list=PL8m4NUhTQU48oiGCSgCP1FiJEcg_xJzyQ)
-        - [ ] [SOLID Principles (video)](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
+        - [x] [SOLID Principles (video)](https://www.youtube.com/playlist?list=PL4CE9F710017EA77A)
         - [ ] S - [Single Responsibility Principle](http://www.oodesign.com/single-responsibility-principle.html) | [Single responsibility to each Object](http://www.javacodegeeks.com/2011/11/solid-single-responsibility-principle.html)
             - [more flavor](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
         - [ ] O - [Open/Closed Principal](http://www.oodesign.com/open-close-principle.html)  | [On production level Objects are ready for extension for not for modification](https://en.wikipedia.org/wiki/Open/closed_principle)
